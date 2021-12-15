@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Omogbolahan Ajibare",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "description": "Portfolio | Web Developer, Designer.",
     "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "image": "/assets/ag.png",
+    "iconimage": "/assets/ag.png",
+    "twitterUsername": "@theajibare___"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
