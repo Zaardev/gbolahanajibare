@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Omogbolahan Ajibare
+tagline: Web Developer, Designer.
+featuredImage: /assets/untitled-design.png
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Hi, I'm Omogbolahan Ajibare. A budding Web developer, designer proficient in a handful of of programming languages which include HTML, JavaScript & CSS. I am also skilled in the use of Content Management Systems (CMS) such as WordPress, WIX, Shopify, Drupal, Joomla and others.
